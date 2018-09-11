@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "774029909607",
+    "firebase_url": "https://quiztesting-dce48.firebaseio.com",
+    "project_id": "quiztesting-dce48",
+    "storage_bucket": "quiztesting-dce48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774029909607:android:b4ea8e9b0e51a160",
+        "android_client_info": {
+          "package_name": "test.demo.englishquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774029909607-a4a2bcge4vlk6l5poi2og8v8ta8imjrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDst4dKmUe1LTjCvbjHlVeZUBYiu8jm3uY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
